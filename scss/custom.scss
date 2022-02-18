@@ -1,0 +1,6 @@
+
+@import "../node_modules/rfs/scss";
+
+.content{
+    @include font-size(5rem);
+}

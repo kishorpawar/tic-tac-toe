@@ -1,0 +1,10 @@
+.content {
+  font-size: calc(1.625rem + 4.5vw);
+}
+@media (min-width: 1200px) {
+  .content {
+    font-size: 5rem;
+  }
+}
+
+/*# sourceMappingURL=custom.css.map */
